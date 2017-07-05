@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.BaseSerialization.Library.Entities", "IMQ1.BaseSerialization.Library.Entities\IMQ1.BaseSerialization.Library.Entities.csproj", "{24596691-A77F-4D9A-AF89-41DE7628E123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.BaseSerialization.Executor", "IMQ1.BaseSerialization.Executor\IMQ1.BaseSerialization.Executor.csproj", "{989E5487-7EE7-4D4F-AF54-4CADE8F486FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C1A125-1AF5-44C4-BEB1-E9F49BB81460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24596691-A77F-4D9A-AF89-41DE7628E123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24596691-A77F-4D9A-AF89-41DE7628E123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24596691-A77F-4D9A-AF89-41DE7628E123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24596691-A77F-4D9A-AF89-41DE7628E123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989E5487-7EE7-4D4F-AF54-4CADE8F486FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989E5487-7EE7-4D4F-AF54-4CADE8F486FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989E5487-7EE7-4D4F-AF54-4CADE8F486FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989E5487-7EE7-4D4F-AF54-4CADE8F486FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
